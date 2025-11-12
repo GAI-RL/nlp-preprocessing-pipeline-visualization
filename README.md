@@ -5,6 +5,12 @@ It provides both a **text-based interface** (for single text input) and a **data
 
 ---
 
+## 🚀 Try the App
+
+Hugging Face Space: [NLP Pre-Processing Pipeline](https://huggingface.co/spaces/rayan2106/NLP-Preprocessing)
+
+---
+
 ## 🚀 Features
 
 - ✅ Run **individual NLP tasks** or a **full pipeline**
