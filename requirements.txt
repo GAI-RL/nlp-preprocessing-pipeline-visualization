@@ -1,0 +1,4 @@
+gradio
+pandas
+nltk
+spacy==3.7.5
